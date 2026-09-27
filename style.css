@@ -1,4 +1,4 @@
-/* --- RESET & GENERAL STYLES --- */
+ /* --- RESET & GENERAL STYLES --- */
 * {
   margin: 0;
   padding: 0;
@@ -70,6 +70,13 @@ a {
   background-color: #FAFAFA;
   padding-bottom: 80px;
   overflow: hidden;
+}
+
+.w-img {
+  background-image: url(./images/busines.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .hero-bg-image {
